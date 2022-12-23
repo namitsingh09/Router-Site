@@ -1,6 +1,9 @@
 import React from 'react';
 import rose from "./s.png"
 import "./c2.css"
+import one from "./one.jpeg"
+import two from "./two.jpg"
+import three from "./three.jpeg"
 
 const Carousel2 = () => {
     return (
@@ -9,17 +12,17 @@ const Carousel2 = () => {
         
 <div className='con'>
            <div class="container">
-  <img src={rose} alt="Avatar" class="image"/>
+  <img src={one} alt="Avatar" class="image"/>
   
   <div class="overlay">WIFI 6</div>
 </div>
 <div class="container">
-  <img src={rose} alt="Avatar" class="image"/>
-  <div class="overlay">WIFI 5</div>
+  <img src={two} alt="Avatar" class="image"/>
+  <div class="overlay">OutDoors</div>
 </div>
 <div class="container">
-  <img src={rose} alt="Avatar" class="image"/>
-  <div class="overlay">Jio 4g</div>
+  <img src={three} alt="Avatar" class="image"/>
+  <div class="overlay">Rapture GT-AX11000</div>
 </div>
 </div>
 
