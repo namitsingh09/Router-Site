@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Screenshot from 2022-12-23 10-09-46](https://user-images.githubusercontent.com/38458966/209277165-5e170e55-10c1-46f1-be92-73e2530d391a.png)
+
 
 In the project directory, you can run:
 
@@ -52,6 +54,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot from 2022-12-23 10-09-46](https://user-images.githubusercontent.com/38458966/209277140-2e40256e-d142-4d25-ba9e-fa4c6d088f8c.png)
 
 ### Making a Progressive Web App
 
