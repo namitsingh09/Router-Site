@@ -7,6 +7,7 @@ import Caroussel2 from './Carousel2';
 import Com from './Com';
 import Members from './Members';
 import Footer from './Footer';
+import Pro from './Pro';
 
 function App() {
   return (
@@ -16,7 +17,10 @@ function App() {
       <Caroussel2></Caroussel2>
       <Com></Com>
       <Members></Members>
+      <Pro></Pro>
       <Footer></Footer>
+      
+     
      
    
     </div>

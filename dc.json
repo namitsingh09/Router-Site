@@ -1,0 +1,76 @@
+
+{
+  
+      "Image": [
+        {
+         "image": "https://www.reliancedigital.in/medias/TP-Link-ARCHER-A6-Router-492850204-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjcxOHxpbWFnZS9qcGVnfGltYWdlcy9oZTgvaGNjLzk4MjUzOTc1Mzg4NDYuanBnfDNlMWY4MTkzNjRiZDAwNDA1MDNlYjIwNjU2YzZkY2VlZjRiNjY5MzI4NWNlZmIyM2NlZWU4NmMxZjJhOGQwZDI",
+         "id": 1,
+         "price": "$ 2342"
+      
+      },
+        {
+         "image": "https://www.reliancedigital.in/medias/Resonate-CRU12V2A-Charger-and-Adapter-491946558-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzODkzMnxpbWFnZS9qcGVnfGltYWdlcy9oNmMvaGIwLzk2Nzk4MDE0NTA1MjYuanBnfDA3NjkxNzQ5NjU1Y2Y1MjU0MmY1ODZkYjJjNjI3ZmUzYjQwMTM2Yzk0NTljNTU2ZTEyYmFmMmRlOTkzNmQwYTA",
+         "id": 2,
+         "price": "$ 1500"
+          
+        },
+        {
+         "image": "https://www.reliancedigital.in/medias/TP-Link-TL-WR845N-Routers-491838055-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NDY0fGltYWdlL2pwZWd8aW1hZ2VzL2g2Zi9oMDAvOTg4OTQ3ODMxMTk2Ni5qcGd8ZThiZGVlYzFjNmI2N2JjYzg2YWE4NWU3NjcyMjU4Njk0YjgxY2JjMmE1NzAxZmMzOTg2OTZhOTczZmVkYjYwMg",
+         "id": 3,
+         "price": "$ 2900"
+        },
+        {
+          "image": "https://apollo-singapore.akamaized.net:443/v1/files/tv1m7lr4ujpn1-IN/image;s=850x0",
+          "id": 4,
+          "price": "$ 34000"
+         },
+         {
+          "image": "https://apollo-singapore.akamaized.net:443/v1/files/tv1m7lr4ujpn1-IN/image;s=850x0",
+          "id": 5,
+          "price": "$ 900"
+         },
+         {
+          "image": "https://apollo-singapore.akamaized.net:443/v1/files/tv1m7lr4ujpn1-IN/image;s=850x0",
+          "id": 6,
+          "price": "$ 23"
+         },
+         {
+          "image": "https://apollo-singapore.akamaized.net:443/v1/files/tv1m7lr4ujpn1-IN/image;s=850x0",
+          "id": 7,
+          "price": "$ 5"
+         }
+       
+       ],
+     "Price": [
+  {
+   "name": "1,999.00",
+   "id": 8
+  },
+  {
+   "name": "1,149.00",
+   "id": 9
+   },
+  {
+   "name": "2,099.00",
+   "id": 10
+  },
+  {
+   "name": "2,499.00",
+   "id": 11
+  },
+  {
+   "name": "949.00",
+   "id": 12
+  },
+  {
+   "name": "1,049.00",
+   "id": 13
+   },
+   {
+    "name": "1,049.00",
+    "id": 14
+    }
+  
+  
+ ]
+    }

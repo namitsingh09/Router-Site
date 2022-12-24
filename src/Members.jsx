@@ -8,7 +8,7 @@ export default function Members() {
         <h1>MemberShip</h1>
         <img src={free} id="so"></img>
         <p id='io'>BUY THE BEST ROUTER</p>
-        <p id='ioo'>Over <b>4 Lakhs</b> Happy Customers</p>
+        
 
 
 
