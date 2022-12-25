@@ -8,6 +8,7 @@ import Com from './Com';
 import Members from './Members';
 import Footer from './Footer';
 import Pro from './Pro';
+import Register from './Register';
 
 function App() {
   return (
@@ -18,7 +19,9 @@ function App() {
       <Com></Com>
       <Members></Members>
       <Pro></Pro>
+      <Register></Register>
       <Footer></Footer>
+      
       
      
      

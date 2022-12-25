@@ -4,10 +4,10 @@ import rose from "./rose.jpg"
 
 const Nav = () => {
     return (
-        <div className='nav'>
+        <div className='navv'>
             <nav class="navbar navbar-light bg-light">
   <a class="navbar-brand" href="#">
-    <img src={rose} width="60" height="40" class="d-inline-block align-top" alt=""/>
+    <img src={rose} width="30" height="10" className="d-inline-block align-top" alt=""/>
     Rosebuds
   </a>
 </nav>
